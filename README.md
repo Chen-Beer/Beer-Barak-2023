@@ -3,10 +3,10 @@ Code &amp; data for "Revealing and reshaping attractor dynamics in large network
 
 Documentation is available in README.pdf
 
-Data is available here:
-https://zenodo.org/record/8385982 - control_26550_24.1
-https://zenodo.org/record/8385835 - 26549_11.11
-https://zenodo.org/record/7978483 - 26550_1.11
+Data is available here://
+https://zenodo.org/record/8385982 - control_26550_24.1//
+https://zenodo.org/record/8385835 - 26549_11.11//
+https://zenodo.org/record/7978483 - 26550_1.11//
 https://zenodo.org/record/8384113 - control_38427_24.4
 https://zenodo.org/record/8384111 - control_39740_24.4
 https://zenodo.org/record/8383243 - control_38427_7.2
